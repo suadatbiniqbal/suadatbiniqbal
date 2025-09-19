@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anythingg**
 
 - 📫 How to reach me **suadatbiniqbal@outlook.com**
 
