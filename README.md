@@ -1,5 +1,5 @@
 <h1 align="center">Yo! 👋, I'm Suadat!</h1>
-<h3 align="center">A passionate frontend developer from Kashmir</h3>
+<h3 align="center">A passionate full-stack developer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20views&color=0e75b6&style=flat" alt="suadatbiniqbal" /> </p>
 
