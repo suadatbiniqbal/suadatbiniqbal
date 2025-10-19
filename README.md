@@ -1,5 +1,5 @@
 <h1 align="center">Yo! 👋, I'm Suadat!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Kashmir</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20views&color=0e75b6&style=flat" alt="suadatbiniqbal" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [binarybase](https://binarybase.netlify.app/)
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 💬 Ask me about **Anythingg**
 
