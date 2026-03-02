@@ -1,69 +1,54 @@
-<h1 align="center">Hi 👋, I'm Suadat Bin Iqbal</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+Learner;DevOps+Explorer;Linux+Enthusiast;Always+Learning+New+Things" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🚀 Aspiring **Full Stack Developer**
-- 📱 Currently learning **Flutter & Mobile Development**
-- 🐳 Exploring **DevOps & Docker**
-- 💻 Linux User
-- 🧠 Interested in Systems, Networking & AI (future goals)
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,flutter,dart,python,git,github,linux,docker,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suadatbiniqbal&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Graph (Snake Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suadatbiniqbal/suadatbiniqbal/output/github-contribution-grid-snake.svg" />
-</p>
-
-> ⚠️ To enable snake animation:
-> You must enable GitHub Actions in your profile repo.
-> I can guide you if you want.
-
----
-
-## 🌍 Connect With Me
+<h1 align="center">Suadat Bin Iqbal</h1>
+<h3 align="center">JavaScript Developer</h3>
 
 <p align="center">
   <a href="https://github.com/suadatbiniqbal">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
+  <img src="https://img.shields.io/github/followers/suadatbiniqbal?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/suadatbiniqbal?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-## 🔥 Current Goals
+## About
 
-- ✅ Master Full Stack Web Development
-- 🔄 Build Real Production Projects
-- 🚀 Learn DevOps Properly
-- 💡 Contribute to Open Source
+JavaScript developer focused on building clean, performant web applications.  
+Interested in full-stack development, system design, and scalable backend architecture.
+
+Currently exploring:
+- Advanced JavaScript
+- Node.js & APIs
+- React ecosystem
+- DevOps fundamentals
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,linux,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suadatbiniqbal&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Suadat Bin Iqbal</b>
+  <sub>Building. Learning. Improving.</sub>
 </p>
