@@ -1,5 +1,5 @@
 <h1 align="center">Suadat Bin Iqbal</h1>
-<h3 align="center">Backend Developer · JavaScript Engineer</h3>
+<h3 align="center">Backend Developer · Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20Views&color=111111&style=flat" />
@@ -10,29 +10,27 @@
 
 ## About
 
-Backend-focused JavaScript developer building scalable APIs and web applications.
+Backend-focused developer building reliable and scalable systems.
 
-Currently focused on backend engineering, architecture, and performance optimization using Node.js and Express.
-
-Strong understanding of REST APIs, authentication systems, and database integration.
+Currently working on backend development, API design, and system architecture.  
+Interested in performance, clean code, and practical engineering.
 
 ---
 
 ## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,js,cpp" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Building production-ready backend systems
-- API design and structure
-- Authentication & authorization
-- Database integration
-- Clean and maintainable architecture
+- Backend development with JavaScript & Python  
+- Scalable API architecture  
+- Systems programming fundamentals (C++)  
+- Cross-platform application development (Flutter)
 
 ---
 
@@ -46,5 +44,5 @@ Strong understanding of REST APIs, authentication systems, and database integrat
 ---
 
 <p align="center">
-  <sub>Focused on building reliable backend systems.</sub>
+  <sub>Building systems that scale.</sub>
 </p>
