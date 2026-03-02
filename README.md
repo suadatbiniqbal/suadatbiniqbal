@@ -2,18 +2,22 @@
 <h3 align="center">Backend Developer · Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20Views&color=111111&style=flat" />
-  <img src="https://img.shields.io/github/followers/suadatbiniqbal?label=Followers&style=flat&color=111111" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=500&lines=Backend+Engineering;API+Architecture;Systems+Thinking;Building+Scalable+Software" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile+Views&color=0f0f0f&style=flat" />
+  <img src="https://img.shields.io/github/followers/suadatbiniqbal?label=Followers&style=flat&color=0f0f0f" />
 </p>
 
 ---
 
 ## About
 
-Backend-focused developer building reliable and scalable systems.
+Backend-focused engineer building scalable and maintainable systems.
 
-Currently working on backend development, API design, and system architecture.  
-Interested in performance, clean code, and practical engineering.
+Currently working on backend development, API design, and architecture using JavaScript and Python.  
+Strong interest in systems programming and performance optimization.
 
 ---
 
@@ -27,14 +31,14 @@ Interested in performance, clean code, and practical engineering.
 
 ## Current Focus
 
-- Backend development with JavaScript & Python  
-- Scalable API architecture  
-- Systems programming fundamentals (C++)  
-- Cross-platform application development (Flutter)
+- Backend development  
+- API architecture  
+- System-level programming (C++)  
+- Cross-platform apps (Flutter)  
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
@@ -44,5 +48,5 @@ Interested in performance, clean code, and practical engineering.
 ---
 
 <p align="center">
-  <sub>Building systems that scale.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=80&section=footer"/>
 </p>
