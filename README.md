@@ -1,54 +1,57 @@
 <h1 align="center">Suadat Bin Iqbal</h1>
-<h3 align="center">JavaScript Developer</h3>
+<h3 align="center">Startup Engineer · JavaScript Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/suadatbiniqbal">
-    <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <img src="https://img.shields.io/github/followers/suadatbiniqbal?label=Followers&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/stars/suadatbiniqbal?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&label=Profile%20Views&color=111111&style=flat" />
+  <img src="https://img.shields.io/github/followers/suadatbiniqbal?label=Followers&style=flat&color=111111" />
+  <img src="https://img.shields.io/github/stars/suadatbiniqbal?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=111111" />
 </p>
 
 ---
 
-## About
+## Philosophy
 
-JavaScript developer focused on building clean, performant web applications.  
-Interested in full-stack development, system design, and scalable backend architecture.
+I build scalable products from idea to deployment.  
+Focused on performance, clean architecture, and practical engineering.
 
-Currently exploring:
-- Advanced JavaScript
-- Node.js & APIs
-- React ecosystem
+Comfortable moving across frontend, backend, DevOps, and systems when required.
+
+---
+
+## Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css" />
+</p>
+
+---
+
+## Broader Engineering Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,dart,flutter,bash,docker,linux,mongodb,postgres,git,github,vscode" />
+</p>
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suadatbiniqbal&theme=github-dark-blue&hide_border=true" height="170"/>
+</p>
+
+---
+
+## Current Focus
+
+- Advanced JavaScript & TypeScript
+- Backend architecture & APIs
 - DevOps fundamentals
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github,linux,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suadatbiniqbal&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- Building production-ready projects
 
 ---
 
 <p align="center">
-  <sub>Building. Learning. Improving.</sub>
+  <sub>Engineering products, not just code.</sub>
 </p>
