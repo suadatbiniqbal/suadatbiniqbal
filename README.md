@@ -1,5 +1,5 @@
 <h1 align="center">Suadat Bin Iqbal</h1>
-<h3 align="center">Backend Developer · Software Engineer</h3>
+<h3 align="center">High School Student · Backend Developer · Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=00FFAA&center=true&vCenter=true&width=500&lines=Backend+Engineering;API+Architecture;Systems+Thinking;Building+Scalable+Software" />
@@ -14,24 +14,24 @@
 
 ## About
 
-Backend-focused engineer building scalable and maintainable systems.
+ student passionate about backend development, software engineering, and building scalable systems.  
 
-Currently working on backend development, API design, and architecture using JavaScript and Python.  
-Strong interest in systems programming and performance optimization.
+Currently exploring backend development, API design, and architecture using Go, Python, and JavaScript.  
+Also diving into system-level programming and performance optimization.
 
 ---
 
 ## Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,js,cpp" />
+  <img src="https://skillicons.dev/icons?i=go,python,flutter,js,cpp" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Backend development  
+- Backend development (Go, Python, JavaScript)  
 - API architecture  
 - System-level programming (C++)  
 - Cross-platform apps (Flutter)  
