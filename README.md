@@ -1,1 +1,0 @@
-https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=120&section=header&text=Suadat%20Bin%20Iqbal&fontColor=00FFAA&fontSize=42&fontAlign=50&fontAlignY=65&desc=Backend%20Engineer%20·%20Systems%20Thinker%20·%20Builder&descColor=8b949e&descSize=14&descAlignY=85&animation=fadeIn
