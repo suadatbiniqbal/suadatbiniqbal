@@ -1,7 +1,7 @@
 # Suadat Bin Iqbal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Networking+Enthusiast;System+Level+Programming;Building+Efficient+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Networking+Enthusiast;System+Level+Programming;Building+Efficient+Systems" />
 </p>
 
 ---
@@ -15,9 +15,16 @@ Focused on understanding how systems work at a low level and optimizing performa
 
 ## Tech Stack
 
-### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,flutter" />
+</p>
+
+---
+
+## Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
