@@ -1,41 +1,42 @@
 # Suadat Bin Iqbal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Kotlin+%7C+C%2B%2B+Enthusiast;Networking+%26+Low-Level+Systems;Building+Fast+%26+Scalable+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+%7C+Kotlin+%7C+React;Building+Streaming+%26+Real-Time+Apps;Open+Source+%7C+Jammu%2C+India" />
 </p>
 
 ---
 
 ## About Me
 
-Backend-focused developer diving deep into **networking** and **system-level programming**.  
-I like building things close to the metal and understanding *how stuff actually works*.
+Full-stack developer obsessed with building things that actually work — from **streaming platforms** to **custom operating systems**.  
+I move fast, iterate faster, and like understanding *everything* under the hood.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,kotlin,python,js,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,react,ts,js,python,firebase,linux,docker,androidstudio&theme=dark" />
 </p>
 
 ---
 
 ## Core Interests
 
-- TCP/IP Networking  
-- Backend Systems  
-- Low-Level Programming  
-- Performance Optimization  
+- Video & Music Streaming Platforms
+- Real-Time Communication (WebRTC, Sockets)
+- Mobile App Development (Flutter & Kotlin)
+- System-Level Programming & Custom OS
+- Full-Stack Web with React & Next.js
 
 ---
 
-## Current Focus
+## Current Projects
 
-- Building backend systems from scratch  
-- Working with sockets & protocols  
-- Writing efficient C/C++ programs  
-- Exploring Kotlin for system + Android dev  
+- 🎬 **Everest Movies** — Custom video streaming platform
+- 🎵 **Harmber** — Music player & streaming app
+- 💬 **Binary Base / Amber Call** — Real-time chat & calling
+- 🖥️ **Amber OS** — Custom operating system from scratch
 
 ---
 
@@ -58,10 +59,10 @@ I like building things close to the metal and understanding *how stuff actually 
 
 ## Connect
 
-- GitHub: https://github.com/suadatbiniqbal
+- GitHub: [https://github.com/suadatbiniqbal](https://github.com/suadatbiniqbal)
 
 ---
 
 ## Philosophy
 
-> Build simple. Build fast. Understand everything.
+> Ship it. Break it. Fix it. Understand it.
