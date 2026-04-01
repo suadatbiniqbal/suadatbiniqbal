@@ -1,7 +1,7 @@
 # Suadat Bin Iqbal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+%7C+Kotlin+%7C+React;Building+Streaming+%26+Real-Time+Apps;Open+Source+%7C+Jammu%2C+India" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+%7C+Kotlin+%7C+Python;Building+Streaming+%26+Real-Time+Apps;Open+Source+%7C+Jammu%2C+India" />
 </p>
 
 ---
@@ -16,7 +16,7 @@ I move fast, iterate faster, and like understanding *everything* under the hood.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,react,ts,js,python,firebase,linux,docker,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,python,js,linux,bash,firebase,androidstudio&theme=dark" />
 </p>
 
 ---
@@ -31,12 +31,12 @@ I move fast, iterate faster, and like understanding *everything* under the hood.
 
 ---
 
-## Current Projects
+## Current Focus
 
-- 🎬 **Everest Movies** — Custom video streaming platform
-- 🎵 **Harmber** — Music player & streaming app
-- 💬 **Binary Base / Amber Call** — Real-time chat & calling
-- 🖥️ **Amber OS** — Custom operating system from scratch
+- Building streaming platforms from scratch
+- Writing cross-platform apps with Flutter
+- Scripting & automating with Bash & Python
+- Exploring Kotlin for Android & backend dev
 
 ---
 
