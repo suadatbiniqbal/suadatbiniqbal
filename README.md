@@ -1,22 +1,49 @@
 # Suadat Bin Iqbal
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Networking+Enthusiast;System+Level+Programming;Building+Efficient+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Developer;Kotlin+%7C+C%2B%2B+Enthusiast;Networking+%26+Low-Level+Systems;Building+Fast+%26+Scalable+Apps" />
 </p>
 
 ---
 
 ## About Me
 
-Backend-focused developer with a strong interest in networking, system-level programming, and building efficient, scalable applications.  
-Focused on understanding how systems work at a low level and optimizing performance.
+Backend-focused developer diving deep into **networking** and **system-level programming**.  
+I like building things close to the metal and understanding *how stuff actually works*.
 
 ---
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,flutter" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,kotlin,python,js,linux&theme=dark" />
+</p>
+
+---
+
+## Core Interests
+
+- TCP/IP Networking  
+- Backend Systems  
+- Low-Level Programming  
+- Performance Optimization  
+
+---
+
+## Current Focus
+
+- Building backend systems from scratch  
+- Working with sockets & protocols  
+- Writing efficient C/C++ programs  
+- Exploring Kotlin for system + Android dev  
+
+---
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true&icon_color=00F7FF&title_color=00F7FF" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suadatbiniqbal&theme=github-dark&hide_border=true&ring=00F7FF&fire=00F7FF" height="150"/>
 </p>
 
 ---
@@ -24,33 +51,7 @@ Focused on understanding how systems work at a low level and optimizing performa
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Focus Areas
-
-- TCP/IP Networking  
-- Backend Development  
-- Automation  
-- System Programming  
-
----
-
-## Current Work
-
-- Building backend systems from scratch  
-- Working with sockets and network protocols  
-- Improving performance and efficiency in applications  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suadatbiniqbal&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true&title_color=00F7FF" />
 </p>
 
 ---
@@ -63,4 +64,4 @@ Focused on understanding how systems work at a low level and optimizing performa
 
 ## Philosophy
 
-> Build systems that are simple, efficient, and reliable.
+> Build simple. Build fast. Understand everything.
