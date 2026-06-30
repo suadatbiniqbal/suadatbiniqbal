@@ -8,7 +8,6 @@ Open Source Developer • Android Developer • Backend Developer
 <a href="https://github.com/suadatbiniqbal">
 <img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&style=for-the-badge&color=blue" />
 </a>
-
 <img src="https://img.shields.io/github/followers/suadatbiniqbal?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/suadatbiniqbal?style=for-the-badge" />
 </p>
@@ -17,11 +16,11 @@ Open Source Developer • Android Developer • Backend Developer
 
 ## About Me
 
-I'm a self-taught developer passionate about building open-source software.
+I'm a self-taught developer passionate about building open-source software and creating applications that are fast, reliable, and easy to use.
 
-Most of my work focuses on Android development, backend services, and creating fast, clean applications.
+My primary focus is Android development, backend systems, and modern user experiences. I enjoy contributing to open source and continuously learning new technologies.
 
-Currently working on **Harmber**, an open-source YouTube Music client.
+Currently building **Harmber**, an open-source YouTube Music client.
 
 ---
 
@@ -43,25 +42,11 @@ Currently working on **Harmber**, an open-source YouTube Music client.
 
 ---
 
-## Tools
+## Technologies & Tools
 
 <p>
 
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,firebase,postgres,sqlite,figma,vscode,bash"/>
 
 </p>
 
@@ -70,27 +55,20 @@ Currently working on **Harmber**, an open-source YouTube Music client.
 ## GitHub Statistics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=suadatbiniqbal&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
 
-## Activity Graph
+## Contribution Activity
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suadatbiniqbal&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -98,9 +76,7 @@ Currently working on **Harmber**, an open-source YouTube Music client.
 ## GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=suadatbiniqbal&theme=darkhub&column=4&no-frame=true"/>
-
 </p>
 
 ---
@@ -109,30 +85,37 @@ Currently working on **Harmber**, an open-source YouTube Music client.
 
 ### Harmber
 
-An open-source YouTube Music client focused on performance, simplicity, and a clean user experience.
+An open-source YouTube Music client built with a focus on performance, simplicity, and a clean user experience.
 
 ---
 
 ## Current Focus
 
 - Android Development
-- Backend Systems
+- Backend Engineering
 - Open Source
 - Performance Optimization
-- UI/UX
+- Modern UI/UX
 
 ---
 
-## Availability
+## Connect
 
-I may not always be available to respond to GitHub issues, pull requests, discussions, or emails due to personal commitments.
+<p>
+<a href="https://github.com/suadatbiniqbal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-Delayed responses do not mean a project has been abandoned. I appreciate every issue, contribution, and pull request submitted by the community.
+---
+
+> [!NOTE]
+> I may not always be available to respond to GitHub issues, pull requests, discussions, or emails due to personal reasons and other commitments.
+>
+> Delayed responses do not mean a project has been abandoned. I appreciate your patience, understanding, and every contribution made by the community.
 
 ---
 
 <p align="center">
-
-*"Build software that people enjoy using."*
-
+<i>"Build software that people enjoy using."</i>
 </p>
