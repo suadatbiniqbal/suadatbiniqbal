@@ -24,7 +24,6 @@ My work primarily focuses on Android development, backend engineering, and desig
 
 I enjoy solving complex problems, learning new technologies, and contributing to projects that people can use every day.
 
-Currently building **Harmber**, an open-source YouTube Music client.
 
 ---
 
