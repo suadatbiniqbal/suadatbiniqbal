@@ -1,34 +1,68 @@
-# Suadat Bin Iqbal
-
-Open-source developer building Android applications, backend systems, and developer tools.
-
----
-
-## About
-
-- 15-year-old self-taught developer
-- Passionate about open source
-- Android Developer (Kotlin & Jetpack Compose)
-- Backend Development
-- Linux User
-- UI/UX Enthusiast
-- Interested in software engineering and filmmaking
-
----
-
-## Current Projects
-
-- Harmber — Open-source YouTube Music client
-- Android libraries
-- Backend services
-- Developer tools
-
----
-
-## Tech Stack
+<h1 align="center">Suadat Bin Iqbal</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,c,cpp,python,go,rust,js,ts,nodejs,react,nextjs,html,css,tailwind,firebase,mongodb,postgres,mysql,sqlite,docker,git,github,linux,bash,figma,vscode&perline=10"/>
+Open Source Developer • Android Developer • Backend Developer
+</p>
+
+<p align="center">
+<a href="https://github.com/suadatbiniqbal">
+<img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&style=for-the-badge&color=blue" />
+</a>
+
+<img src="https://img.shields.io/github/followers/suadatbiniqbal?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/suadatbiniqbal?style=for-the-badge" />
+</p>
+
+---
+
+## About Me
+
+I'm a self-taught developer passionate about building open-source software.
+
+Most of my work focuses on Android development, backend services, and creating fast, clean applications.
+
+Currently working on **Harmber**, an open-source YouTube Music client.
+
+---
+
+## Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+
 </p>
 
 ---
@@ -36,20 +70,27 @@ Open-source developer building Android applications, backend systems, and develo
 ## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=suadatbiniqbal&theme=github-dark&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suadatbiniqbal&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contribution Activity
+## Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suadatbiniqbal&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -57,110 +98,28 @@ Open-source developer building Android applications, backend systems, and develo
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suadatbiniqbal&theme=darkhub&no-frame=true&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=suadatbiniqbal&theme=darkhub&column=4&no-frame=true"/>
+
 </p>
 
 ---
 
-## Profile Views
+## Featured Project
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=suadatbiniqbal&style=flat-square"/>
-</p>
+### Harmber
 
----
-
-## Languages
-
-- Kotlin
-- Java
-- C
-- C++
-- Python
-- Go
-- Rust
-- JavaScript
-- TypeScript
-- SQL
+An open-source YouTube Music client focused on performance, simplicity, and a clean user experience.
 
 ---
 
-## Technologies
+## Current Focus
 
-- Android
-- Jetpack Compose
-- Firebase
-- MongoDB
-- PostgreSQL
-- MySQL
-- SQLite
-- Docker
-- Git
-- Linux
-- Node.js
-- React
-- Next.js
-
----
-
-## Interests
-
-- Open Source
 - Android Development
-- Backend Engineering
-- Linux
+- Backend Systems
+- Open Source
 - Performance Optimization
-- UI/UX Design
-- Developer Tools
-- Filmmaking
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Harmber** | Open-source YouTube Music client |
-| Android Libraries | Reusable Android components |
-| Backend Services | APIs and backend infrastructure |
-| Developer Tools | Utilities for developers |
-
----
-
-## Workflow
-
-```
-Idea
-  │
-  ▼
-Research
-  │
-  ▼
-Design
-  │
-  ▼
-Development
-  │
-  ▼
-Testing
-  │
-  ▼
-Open Source
-```
-
----
-
-## Philosophy
-
-> Build software that is fast, simple, reliable, and accessible.
-
----
-
-## Contact
-
-GitHub
-
-https://github.com/suadatbiniqbal
+- UI/UX
 
 ---
 
@@ -168,10 +127,12 @@ https://github.com/suadatbiniqbal
 
 I may not always be available to respond to GitHub issues, pull requests, discussions, or emails due to personal commitments.
 
-If a project receives a delayed response, it has not been abandoned. Your patience and contributions are sincerely appreciated.
+Delayed responses do not mean a project has been abandoned. I appreciate every issue, contribution, and pull request submitted by the community.
 
 ---
 
-## License
+<p align="center">
 
-Each repository is licensed under its respective open-source license unless stated otherwise.
+*"Build software that people enjoy using."*
+
+</p>
