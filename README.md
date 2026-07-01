@@ -1,11 +1,15 @@
-<h1 align="center">Suadat Bin Iqbal</h1>
+<h1 align="center">Hi 👋, I'm Suadat Bin Iqbal</h1>
 
 <p align="center">
-Open Source Developer • Android Developer • Backend Engineer
+Open Source • Android • Backend
 </p>
 
 <p align="center">
-Building software with a focus on performance, simplicity, and thoughtful design.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Building+Open+Source+Software;Android+Developer;Backend+Engineer;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+Building software focused on performance, simplicity, and thoughtful design.
 </p>
 
 <p align="center">
@@ -16,22 +20,23 @@ Building software with a focus on performance, simplicity, and thoughtful design
 
 ---
 
-# About
+## 🚀 About Me
 
-I'm a self-taught developer passionate about building high-quality open-source software.
-
-My work primarily focuses on Android development, backend engineering, and designing applications that are fast, reliable, and easy to use.
-
-I enjoy solving complex problems, learning new technologies, and contributing to projects that people can use every day.
-
+- 📱 Android Developer
+- ⚡ Backend Engineer
+- ❤️ Open Source Enthusiast
+- 🎯 Performance & Clean Architecture
+- 🌱 Learning every day
 
 ---
 
-# Languages
+## 💻 Languages
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -43,21 +48,19 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ---
 
-# Technologies & Tools
+## 🛠 Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=androidstudio,linux,git,github,firebase,postgres,sqlite,bash,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,linux,git,github,firebase,postgres,sqlite,bash,vscode"/>
 </p>
 
 ---
 
-# GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="175" src="https://streak-stats.demolab.com?user=suadatbiniqbal&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suadatbiniqbal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://streak-stats.demolab.com?user=suadatbiniqbal&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -66,61 +69,51 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ---
 
-# Contribution Graph
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=suadatbiniqbal&theme=darkhub&no-frame=true&column=4"/>
+</p>
+
+---
+
+## 📈 Contributions
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=suadatbiniqbal&theme=github-dark&hide_border=true"/>
 </p>
 
----
-
-# Achievements
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suadatbiniqbal&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://raw.githubusercontent.com/suadatbiniqbal/suadatbiniqbal/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# Featured Project
+## 🎯 Principles
 
-## Harmber
-
-An open-source YouTube Music client built with modern Android technologies.
-
-Designed with performance, privacy, and a clean user experience in mind.
-
----
-
-# Principles
-
-- Performance First
-- Open Source
-- Clean Architecture
-- Simplicity
-- Continuous Learning
+- ⚡ Performance First
+- 🌍 Open Source
+- 🧩 Clean Architecture
+- ✨ Simplicity
+- 📚 Continuous Learning
 
 ---
 
-# Connect
+## 🤝 Connect
 
 <p align="center">
-
 <a href="https://github.com/suadatbiniqbal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 > [!NOTE]
-> I may not always be available to respond to GitHub issues, pull requests, discussions, or emails due to personal reasons, academic commitments, or other responsibilities.
->
-> Delayed responses do not indicate that a project has been abandoned. Thank you for your patience, understanding, and for supporting my work.
+> I may not always be available to respond to issues, pull requests, discussions, or emails due to personal or academic commitments. Delayed responses don't mean a project has been abandoned.
 
 ---
 
 <p align="center">
-<i>"Build software that lasts."</i>
+<b><i>"Build software that lasts."</i></b>
 </p>
