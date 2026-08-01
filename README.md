@@ -1,73 +1,51 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/a4/62/d6/a462d6721b1cffd6e882cc4a358ad295.jpg" width="320"/>
+<img src="https://i.pinimg.com/1200x/a4/62/d6/a462d6721b1cffd6e882cc4a358ad295.jpg" width="300"/>
 
-# suadatbiniqbal
+# 𝐬𝐮𝐚𝐝𝐚𝐭𝐛𝐢𝐧𝐢𝐪𝐛𝐚𝐥
 
-Building fast, scalable software with a focus on backend systems, mobile applications, and modern web technologies.
-
-</div>
+*Backend Engineer • Mobile Developer • Open Source*
 
 ---
 
-## Languages
+### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart&theme=dark" />
 </p>
 
 ---
 
-## Frameworks & Libraries
+### 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 & 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter" />
-</p>
-
-- GraphQL
-
----
-
-## Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
 </p>
 
 ---
 
-## DevOps & Cloud
+### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ---
 
-## Tools
+### 𝐃𝐞𝐯𝐎𝐩𝐬
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
 </p>
 
 ---
 
-## Current Stack
+### 𝐓𝐨𝐨𝐥𝐬
 
-```txt
-JavaScript   • TypeScript
-Node.js      • Express.js
-React        • Flutter
-Python       • Dart
-GraphQL      • MySQL
-Docker       • Kubernetes
-Linux        • Git
-```
-
----
-
-<div align="center">
-
-*"Build. Ship. Repeat."*
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" />
+</p>
 
 </div>
