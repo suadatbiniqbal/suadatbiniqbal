@@ -1,49 +1,69 @@
 <div align="center">
 
-# Suadat Bin Iqbal
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ███████╗██╗   ██╗ █████╗ ██████╗  █████╗ ████████╗        │
+│   ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝        │
+│   ███████╗██║   ██║███████║██║  ██║███████║   ██║           │
+│   ╚════██║██║   ██║██╔══██║██║  ██║██╔══██║   ██║           │
+│   ███████║╚██████╔╝██║  ██║██████╔╝██║  ██║   ██║           │
+│   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-**Developer · Mathematics enthusiast**
+```text
+┌──[suadat@github]─[~]
+└─$ ./about_me
 
-I enjoy mathematics, programming, and building things that interest me.
+[████████████████████████████████] 100%
+
+> developer
+> mathematics enthusiast
+> problem solver
+> always learning
+```
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,postgresql" />
-
-</div>
-
----
-
-### About
-
 ```text
-I like maths.
-I like code.
-I like figuring things out.
+┌──[suadat@github]─[~/stack]
+└─$ ls
 
-Currently learning, building, and experimenting.
+  ◉ javascript
+  ◉ typescript
+  ◉ python
+  ◉ c
+  ◉ postgresql
+  ◉ sql
 ```
 
-### Stack
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,postgresql" height="42"/>
 
-**Languages**
+<br>
 
-`JavaScript` · `TypeScript` · `Python` · `C`
+```text
+┌──[suadat@github]─[~/interests]
+└─$ cat interests.txt
 
-**Database**
+  ∑  mathematics
+  λ  programming
+  ∞  learning
+  >  building
+```
 
-`PostgreSQL` · `SQL`
+```text
+┌──[suadat@github]─[~]
+└─$ status
 
----
+  ● ONLINE
+  ● BUILDING
+  ● LEARNING
+```
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=450&lines=maths+%2B+code;build.+learn.+repeat." />
-
-<br><br>
-
-<a href="https://github.com/suadatbiniqbal">
-<img src="https://img.shields.io/github/followers/suadatbiniqbal?style=flat&label=followers" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=500&lines=%5B+system+ready+%5D;%24+solve+%7C%7C+build+%7C%7C+repeat_;%5B+loading+new+ideas...+%5D" />
 
 </div>
