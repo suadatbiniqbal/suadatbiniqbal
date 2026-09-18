@@ -1,69 +1,49 @@
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ███████╗██╗   ██╗ █████╗ ██████╗  █████╗ ████████╗        │
-│   ██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝        │
-│   ███████╗██║   ██║███████║██║  ██║███████║   ██║           │
-│   ╚════██║██║   ██║██╔══██║██║  ██║██╔══██║   ██║           │
-│   ███████║╚██████╔╝██║  ██║██████╔╝██║  ██║   ██║           │
-│   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+# Suadat Bin Iqbal
 
-```text
-┌──[suadat@github]─[~]
-└─$ ./about_me
+**Developer · Mathematics enthusiast**
 
-[████████████████████████████████] 100%
-
-> developer
-> mathematics enthusiast
-> problem solver
-> always learning
-```
+I enjoy mathematics, programming, and building things that interest me.
 
 <br>
 
-```text
-┌──[suadat@github]─[~/stack]
-└─$ ls
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,postgresql" />
 
-  ◉ javascript
-  ◉ typescript
-  ◉ python
-  ◉ c
-  ◉ postgresql
-  ◉ sql
-```
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,postgresql" height="42"/>
+---
 
-<br>
+### About
 
 ```text
-┌──[suadat@github]─[~/interests]
-└─$ cat interests.txt
+I like maths.
+I like code.
+I like figuring things out.
 
-  ∑  mathematics
-  λ  programming
-  ∞  learning
-  >  building
+Currently learning, building, and experimenting.
 ```
 
-```text
-┌──[suadat@github]─[~]
-└─$ status
+### Stack
 
-  ● ONLINE
-  ● BUILDING
-  ● LEARNING
-```
+**Languages**
 
-<br>
+`JavaScript` · `TypeScript` · `Python` · `C`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=500&lines=%5B+system+ready+%5D;%24+solve+%7C%7C+build+%7C%7C+repeat_;%5B+loading+new+ideas...+%5D" />
+**Database**
+
+`PostgreSQL` · `SQL`
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=450&lines=maths+%2B+code;build.+learn.+repeat." />
+
+<br><br>
+
+<a href="https://github.com/suadatbiniqbal">
+<img src="https://img.shields.io/github/followers/suadatbiniqbal?style=flat&label=followers" />
+</a>
 
 </div>
