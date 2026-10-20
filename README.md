@@ -2,9 +2,6 @@
 
 # Suadat Bin Iqbal
 
-`developer` · `math enthusiast` · `introvert`
-
-Mathematics, code, and curiosity.
 
 **math × code × solitude**
 
