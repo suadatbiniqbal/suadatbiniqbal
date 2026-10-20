@@ -1,53 +1,48 @@
-<div align="center">
+ <div align="center">
 
 # Suadat Bin Iqbal
 
-**Developer · Mathematics enthusiast**
+`developer` · `math enthusiast` · `introvert`
 
-I enjoy mathematics, programming, and building things that interest me.
+Mathematics, code, and curiosity.
 
-**Mathematics × Code × Curiosity**
+**math × code × solitude**
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,postgresql" />
 
-<br><br>
-
-**build something useful and interesting**
-
 </div>
 
 ---
 
-### About
+### `01 / interests`
 
-```text
-I like mathematics.
-I like code.
-I like figuring things out.
+- Mathematics & problem-solving
+- Programming & software engineering
+- Asian girls
+- Quiet places & solitude
 
-Currently learning, building,
-and experimenting.
-```
+### `02 / stack`
 
-### Stack
-
-**Languages**
-
-`JavaScript` · `TypeScript` · `Python` · `C`
-
-**Database**
-
+`JavaScript` · `TypeScript` · `Python` · `C`  
 `PostgreSQL` · `SQL`
 
----
+### `03 / personality`
+
+```text
+hate socializing.
+love being alone.
+overthink everything.
+
+build. learn. repeat.
+```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=450&lines=Mathematics+%2B+Code;build.+learn.+repeat;create.+learn.+iterate." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=300&lines=math+%2B+code;hate+socializing;quietly+building" />
 
-<br><br>
+<br>
 
 <a href="https://github.com/suadatbiniqbal">
 <img src="https://img.shields.io/github/followers/suadatbiniqbal?style=flat&label=followers" />
