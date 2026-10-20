@@ -19,7 +19,8 @@
 - Programming & software engineering
 - Asian girls
 - Quiet places & solitude
-
+- Music
+- Films
 ### `02 / stack`
 
 `JavaScript` · `TypeScript` · `Python` · `C`  
