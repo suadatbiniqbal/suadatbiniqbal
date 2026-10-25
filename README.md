@@ -15,6 +15,7 @@ When I'm not coding or studying mathematics, I'm probably listening to music, wa
 <p align="center">
   <img src="https://i.pinimg.com/736x/f3/c7/d2/f3c7d238de157cee44cf459e6a1018b4.jpg" width="49%" alt="Gallery image 7"/>
 </p>
+
 ## Tech Stack
 **Languages**
 <p>
@@ -26,11 +27,13 @@ When I'm not coding or studying mathematics, I'm probably listening to music, wa
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 </p>
+
 **Backend and Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 </p>
+
 **Tools and Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
